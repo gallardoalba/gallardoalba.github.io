@@ -4,25 +4,13 @@
   <em>{{this.title}}</em>
 </h3>
 <div class="row">
-  <div class="col-md-4">
-    {{#for 0 this.rating}}<i class="fa fa-star"></i>{{/for}}
-    <span id="open-rating">
-      {{#for this.rating 5}}<i class="fa fa-star-o"></i>{{/for}}
-    </span>
-  </div>
-  <div class="col-md-4">
-    <center>
-      <a href="?book={{this.hash}}" class='permalink'>Permalink</a>
-      {{#if this.quotes}}
-          <span class='permalink'>&bull;</span>
-      {{else if this.notes}}
-          &bull;
-      {{/if}}
+  <div class="col-md-12">
+    <span class="pull-right">
       {{#if this.quotes}}
       <a href="javascript:void(0)"
-         onclick="showModal('{{ escape this.title}}: Quotes',
+         onclick="showModal('{{ escape this.title}}: Buchzitate',
                   finished_yaml, {{@index}}, 'quotes')">
-        Quotes
+        Buchzitate
       </a>
         {{#if this.notes}}
             &bull;
@@ -30,16 +18,11 @@
       {{/if}}
       {{#if this.notes}}
       <a href="javascript:void(0)"
-         onclick="showModal('{{ escape this.title}}: Notes',
+         onclick="showModal('{{ escape this.title}}: Lesenhinweise',
                   finished_yaml, {{@index}}, 'notes')">
-        Notes
+        Lesehinweise
       </a>
       {{/if}}
-    </center>
-  </div>
-  <div class="col-md-4">
-    <span class="pull-right">
-      {{this.finished}}
     </span>
   </div>
 </div>

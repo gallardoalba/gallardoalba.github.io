@@ -1,18 +1,49 @@
-- author: Miquel Amoros
+- author: Anders, Günther
+  title: Die Antiquiertheit des Menschen Bd. I. Über die Seele im Zeitalter der zweiten industriellen Revolution
+  finished: 2022-09-10
+  notes:
+    -  Veröffentlicht im Jahr 1956
+- author: Anders, Günther
+  title: Die Antiquiertheit des Menschen Bd. II. Über die Zerstörung des Lebens im Zeitalter der dritten industriellen Revolution
+  finished: 2022-09-10
+  notes:
+    -  Veröffentlicht im Jahr 1980
+- author: Amorós, Miquel
   title: Filosofia en el tocador
   finished: 2022-09-10
   rating: 5
   quotes:
     - page: 15
-      content: La Ilustracion divinizo la Naturaleza y naturalizo la divinidad.
+      content: Die Aufklärung hat die Natur vergöttlicht und das Göttliche naturalisiert.
   notes:
-    - Publicado en 2016
-- author: Miquel Amoros
+    - Veröffentlicht im Jahr 2016
+- author: Amorós, Miquel
   title: Las armas de la critica
   finished: 2022-09-10
   rating: 5
-  quotes:
-    - page: 85
-      content: El mundo entero se convierte en fabrica.
   notes:
-    - Publicado en 2000
+    - Veröffentlicht im Jahr 2000
+- author: Feyerabend, Paul
+  title: Naturphilosophie
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2009
+- author: Marcuse, Herbert
+  title: One-Dimensional Man
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1964
+- author: Maximoff, G. Petrovitch
+  title: The political philosophy of Bakunin
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1953
+- author: Sartre, Jean-Paul
+  title: L'etre et le néant
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1943
