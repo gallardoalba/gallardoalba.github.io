@@ -1,21 +1,16 @@
 - author: Anders, Günther
   title: Die Antiquiertheit des Menschen Bd. I. Über die Seele im Zeitalter der zweiten industriellen Revolution
-  finished: 1988-09-10
+  finished: 2022-09-10
   notes:
     -  Veröffentlicht im Jahr 1956
 - author: Anders, Günther
   title: Die Antiquiertheit des Menschen Bd. II. Über die Zerstörung des Lebens im Zeitalter der dritten industriellen Revolution
-  finished: 1985-09-10
+  finished: 2021-09-10
   notes:
     -  Veröffentlicht im Jahr 1980
-- author: Anders, Günther
-  title: Mensch ohne Welt. Schrifften zur Kunst und Literatur
-  finished: 1999-09-10
-  notes:
-    -  Veröffentlicht im Jahr 1993
 - author: Amorós, Miquel
   title: Filosofia en el tocador
-  finished: 1970-09-10
+  finished: 2020-09-10
   rating: 5
   quotes:
     - page: 15
@@ -24,205 +19,199 @@
     - Veröffentlicht im Jahr 2016
 - author: Aurelius, Marcus
   title: Meditations
-  finished: 2013-09-10
+  finished: 2019-09-10
   rating: 5
   notes:
     - Marcus Aurelius starb im 1. Jahrhundert nach Christus.
-- author: Bookchin, Murray
-  title: The next revolution. Popular assemblies and the promise of direct democracy
-  finished: 2011-09-10
-  rating: 5
-  notes:
-    - Veröffentlicht im Jahr 2015
 - author: Chomsky, Noam
   title: The responsabilities of intellectuals
-  finished: 1990-09-10
+  finished: 2018-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1967
 - author: Coen, Enrico
   title: Cell to civilizations. The principles of change that shape the world
-  finished: 1999-09-10
+  finished: 2017-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2012
 - author: Cortazar, Julio
   title: Clases de literatura
-  finished: 2005-09-10
+  finished: 2016-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2013
 - author: Darwin, Charles
-  title: On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life
-  finished: 2002-09-10
+  title: On the origin of species by means of natural selection
+  finished: 2015-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1859
 - author: Diamond, Jared
   title: Guns, germs, and steel. The fates of human societies
-  finished: 2000-09-10
+  finished: 2014-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1997
 - author: Deutsch, David
   title: The fabric of reality. The science of parallel Universes and its implications
-  finished: 1972-09-10
+  finished: 2013-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Engels, Friedrich
   title: Dialektik der Natur
-  finished: 1983-09-10
+  finished: 2012-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Feyerabend, Paul
   title: Naturphilosophie
-  finished: 1982-09-10
+  finished: 2011-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2009
 - author: Feynman, Richard
   title: The character of physical law
-  finished: 2014-09-10
+  finished: 2010-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1967
 - author: Farrington, Benjamin
   title: Science in antiquity
-  finished: 1997-09-10
+  finished: 2009-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Gould, Stephen Jay
   title: Wonderlful life. The Burgess Shale and the Nature of History
-  finished: 1998-09-10
+  finished: 2008-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1989
 - author: Graeber, David
   title: Debt. the first 5000 years
-  finished: 1999-09-10
+  finished: 2007-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2011
 - author: Gual, C. García
   title: La secta del perro. Vidas de los filósofos cínicos
-  finished: 2009-09-10
+  finished: 2006-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2014
 - author: Hirschberger, Johannes
   title: Kleine Philosophiegeschichte
-  finished: 2022-01-10
+  finished: 2005-01-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1961
 - author: Kojève, Alexandre
   title: La notion de l'autorité
-  finished: 2017-09-10
+  finished: 2004-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Kropotkin, Peter
   title: Mutual aid, a factor of evolution
-  finished: 2010-09-10
+  finished: 2003-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1902
 - author: Heidegger, Martin
   title: Vom Wesen der Warheit
-  finished: 2016-09-10
+  finished: 2002-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1943
 - author: Marcuse, Herbert
   title: One-dimensional man. Studies in the ideology of advanced industrial society
-  finished: 2002-09-10
+  finished: 2001-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Maximoff, G. Petrovitch
   title: The political philosophy of Bakunin. Scientific anarchism
-  finished: 2001-09-10
+  finished: 2000-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1953
 - author: Margulis, Lynn
   title: Symbiotic planet, a new look at evolution
-  finished: 2005-09-10
+  finished: 1999-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1999
 - author: Ortega y Gasset, José
   title: Historia como sistema
-  finished: 2006-09-10
+  finished: 1998-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1935
 - author: Payne, Stanley
   title: Fascism
-  finished: 2011-01-10
+  finished: 1997-01-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1982
 - author: Politzer, Georges
   title: Principes fondamentaux de philosophie
-  finished: 2018-01-10
+  finished: 1996-01-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1954
 - author: Reich, Wilhelm
   title: Massenpsychologie des Faschismus
-  finished: 2015-09-10
+  finished: 1995-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1933
 - author: Rusell, Beltrand
   title: An outline of Philosophy
-  finished: 2018-09-10
+  finished: 1994-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1927
 - author: Sagan, Carl
   title: The demon-haunted World. Science as a candle in the dark
-  finished: 1980-09-10
+  finished: 1993-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1943
 - author: Sartre, Jean-Paul
   title: L'etre et le néant. Essai d'ontologie phénoménologique
-  finished: 1981-09-10
+  finished: 1992-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1943
 - author: Schifter, Isaac
   title: La ciencia del caos
-  finished: 1982-09-10
+  finished: 1991-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1996
 - author: Schrödinger, Erwin
   title: What is life?
-  finished: 2017-09-10
+  finished: 1990-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
 - author: Sztajnszrajber, Dario
   title: ¿Para qué sirve la filosofía? Pequeño tratado sobre la demolición
-  finished: 2012-03-10
+  finished: 1988-03-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2013
 - author: Thalheimer, Augustus
   title: Einführung in den Dialektischen Materialismus
-  finished: 1996-09-10
+  finished: 1987-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1973
 - author: Todorov, Tzvetan
   title: L'esprit des lumières
-  finished: 1993-09-10
+  finished: 1986-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2006
