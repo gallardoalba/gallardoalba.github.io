@@ -1,20 +1,18 @@
-- author: Author A
-  title: Book 1
-  finished: 2017-09-21
-  rating: 4
+- author: Miquel Amoros
+  title: Filosofia en el tocador
+  finished: 2022-09-10
+  rating: 5
   quotes:
-    - page: 195
-      content: Quote 1 Content
+    - page: 15
+      content: [...] la Ilustracion divinizo la Naturaleza y naturalizo la divinidad.
   notes:
-    - Note 1 Content
-    - Note 2 Content
-    - Note 3 Content
-- author: Author B
-  title: Book 2
-  finished: 2017-08-13
-  rating: 4
+    - Publicado en 2016
+- author: Miquel Amoros
+  title: Las armas de la critica
+  finished: 2022-09-10
+  rating: 5
   quotes:
-    - page: xi
-      content: Quote 2 Content
-    - page: 8
-      content: Quote 3 Content
+    - page: 85
+      content: [...] el mundo entero se convierte en fabrica
+  notes:
+    - Publicado en 2000
