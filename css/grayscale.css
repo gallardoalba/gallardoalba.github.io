@@ -29,11 +29,12 @@ h6 {
     /* letter-spacing: 1px; */
 }
 
-/* p { */
-/*     margin: 0 0 25px; */
-/*     font-size: 18px; */
-/*     line-height: 1.5; */
-/* } */
+/*p { 
+/*    margin: 0 0 25px; 
+/*    font-size: 30px; 
+/*    line-height: 1.5; 
+/*    color: 000000;  
+/*} 
 
 /* @media(min-width:768px) { */
 /*     p { */
@@ -164,7 +165,7 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 @media(min-width:768px) {
@@ -352,7 +353,7 @@ body {
 }
 
 #to-read {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #to-read-list {
