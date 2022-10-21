@@ -1,10 +1,10 @@
 {{#each this}}
 <h3 id="{{this.hash}}">
-  {{this.author}}:
   <em>{{this.title}}</em>
 </h3>
 <div class="row">
   <div class="col-md-12">
+  <b>{{this.author}}</b>
     <span class="pull-right">
       {{#if this.quotes}}
       <a href="javascript:void(0)"
