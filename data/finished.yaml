@@ -1,11 +1,3 @@
-- author: Anders, Günther
-  title: Die Antiquiertheit des Menschen Bd. II. Über die Zerstörung des Lebens im Zeitalter der dritten industriellen Revolution
-  finished: 2021-09-10
-  notes:
-    -  Veröffentlicht im Jahr 1980
-  quotes:
-    - page: 23
-      content: "[..] heute - dies ist die fixe Idee der dritten industriellen Revolution - das Mögliche durchweg als das Verbindliche, das Gekonnte durchweg als das Gesollte akzeptiert ist."
 - author: Amorós, Miquel
   title: Filosofia en el tocador
   finished: 2020-09-10
@@ -15,6 +7,14 @@
       content: La Ilustración deificó la naturaleza y naturalizó lo divino.
   notes:
     - Veröffentlicht im Jahr 2016
+- author: Anders, Günther
+  title: Die Antiquiertheit des Menschen Bd. II. Über die Zerstörung des Lebens im Zeitalter der dritten industriellen Revolution
+  finished: 2021-09-10
+  notes:
+    -  Veröffentlicht im Jahr 1980
+  quotes:
+    - page: 23
+      content: "[..] heute - dies ist die fixe Idee der dritten industriellen Revolution - das Mögliche durchweg als das Verbindliche, das Gekonnte durchweg als das Gesollte akzeptiert ist."
 - author: Aurelius, Marcus
   title: Ta eis heauton (Meditations)
   finished: 2019-09-10
