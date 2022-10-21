@@ -18,6 +18,12 @@
   rating: 5
   notes:
     - Marcus Aurelius starb im 1. Jahrhundert nach Christus.
+- author: Camus, Albert
+  title: L'Homme révolté
+  finished: 2018-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1951
 - author: Chomsky, Noam
   title: The responsabilities of intellectuals
   finished: 2018-09-10
@@ -210,6 +216,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
+- author: Shelley, Mary
+  title: Frankenstein; or the modern prometheus
+  finished: 1990-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1818
 - author: Szasz, Thomas
   title: The manufacture of madness. A comparative study of the inquisition and the mental health movement
   finished: 1988-02-10
