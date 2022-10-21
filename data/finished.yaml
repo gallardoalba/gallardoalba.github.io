@@ -19,7 +19,7 @@
   notes:
     - Marcus Aurelius starb im 1. Jahrhundert nach Christus.
 - author: Camus, Albert
-  title: L'Homme révolté
+  title: L'homme révolté
   finished: 2018-08-10
   rating: 5
   notes:
@@ -243,6 +243,12 @@
 - author: Todorov, Tzvetan
   title: L'esprit des lumières
   finished: 1986-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2006
+- author: Turgénev, Iván
+  title: Отцы и дети
+  finished: 1985-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2006
