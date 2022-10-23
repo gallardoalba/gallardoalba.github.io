@@ -17,12 +17,6 @@
       content: Die Aufklärung hat die Natur vergöttlicht und das Göttliche naturalisiert.
   notes:
     - Veröffentlicht im Jahr 2016
-- author: Amorós, Miquel
-  title: Las armas de la critica
-  finished: 2022-09-10
-  rating: 5
-  notes:
-    - Veröffentlicht im Jahr 2000
 - author: Feyerabend, Paul
   title: Naturphilosophie
   finished: 2022-09-10
@@ -30,19 +24,26 @@
   notes:
     - Veröffentlicht im Jahr 2009
 - author: Marcuse, Herbert
-  title: One-Dimensional Man
+  title: One-dimensional man. Studies in the Ideology of Advanced Industrial Society
   finished: 2022-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
+- author: Kojève, Alexandre
+  title: La notion de l'autorité
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1964
+
 - author: Maximoff, G. Petrovitch
-  title: The political philosophy of Bakunin
+  title: The political philosophy of Bakunin. Scientific anarchism
   finished: 2022-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1953
 - author: Sartre, Jean-Paul
-  title: L'etre et le néant
+  title: L'etre et le néant. Essai d'ontologie phénoménologique
   finished: 2022-09-10
   rating: 5
   notes:
