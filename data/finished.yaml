@@ -3,10 +3,8 @@
   finished: 2021-09-10
   rating: 5
   quotes:
-    - page: 15
-      content: "La Ilustración deificó la naturaleza y naturalizó lo divino."
-    - page: 42
-      content: "[...] los pensadores de la clase dirigente se defendían de la subversión llevando los acontecimientos fuera de la historia, integrándolos en su visión del mundo como metarrelatos, es decir, como categorías literarias atemporales."
+    - content: "La Ilustración deificó la naturaleza y naturalizó lo divino."
+    - content: "[...] los pensadores de la clase dirigente se defendían de la subversión llevando los acontecimientos fuera de la historia, integrándolos en su visión del mundo como metarrelatos, es decir, como categorías literarias atemporales."
   notes:
     - Veröffentlicht im Jahr 2016
 - author: Anders, Günther
@@ -15,20 +13,33 @@
   notes:
     -  Veröffentlicht im Jahr 1980
   quotes:
-    - page: 23
-      content: "[..] heute - dies ist die fixe Idee der dritten industriellen Revolution - das Mögliche durchweg als das Verbindliche, das Gekonnte durchweg als das Gesollte akzeptiert ist."
+    - content: "[..] heute - dies ist die fixe Idee der dritten industriellen Revolution - das Mögliche durchweg als das Verbindliche, das Gekonnte durchweg als das Gesollte akzeptiert ist."
 - author: Aurelius, Marcus
-  title: Ta eis heauton (Meditations)
+  title: Meditations
   finished: 2019-09-10
   rating: 5
   notes:
     - Marcus Aurelius starb im 1. Jahrhundert nach Christus.
+  quotes:
+    - content: "That which is not good for the bee-hive, cannot be god for the bee."
+- author: Bookchin, Murray
+  title: The ecology of creedom. The emergence and dissolution of hierarchy
+  finished: 2018-09-10
+  rating: 5
+  notes: 
+    - Veröffentlicht im Jahr 1982
+  quotes:
+    - content: "[...] the develpment of technics entail the reduction of humanity to a technical force. People become instruments of production, just like the tools and machines they are."
+    - content: "To delegate power is to divest personality of its most integral traits; it denies the very notion that the individual is competent to deal not only with the management of his or her personal life out with its most important context: the social context."
 - author: Camus, Albert
   title: L'homme révolté
   finished: 2018-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1951
+  quotes:
+    - content: "Rien n'étant vrai ni faux, bon ou mauvais, la règle sera de se montrer le plus efficace, c'est-à-dire le plus fort. Le monde alors ne sera plus partagé en justes et en injustes, mais en maîtres et en esclaves. Ainsi, de quelque côté qu'on se tourne, au coeur de la négation et du nihilisme, le meurtre a sa place privilégiée."
+    - content: "Plus la révolte a conscience de revendiquer une juste limite, plus elle est inflexible. Le révolté exige sans doute une certaine liberté pour lui-même ; mais en aucun cas, s'il est conséquent, le droit de détruire l'être et la liberté de l'autre. Il n'humilie personne. La liberté qu'il réclame, il la revendique pour tous ; celle qu'il refuse, il l'interdit à tous."
 - author: Chomsky, Noam
   title: The responsibility of intellectuals
   finished: 2018-09-10
@@ -36,7 +47,7 @@
   notes:
     - Veröffentlicht im Jahr 1967
 - author: Coen, Enrico
-  title: Cell to civilizations. The principles of change that shape the world
+  title: "Cell to civilizations: The principles of change that shape the world"
   finished: 2017-09-10
   rating: 5
   notes:
@@ -126,12 +137,20 @@
   notes:
     - Veröffentlicht im Jahr 1961
     - In klarer und verständlicher Weise stellt Johannes Hirschberger in diesem übersichtlichen Standardwerk die Philosophie des Abendlandes.
-- author: Kojève, Alexandre
-  title: La notion de l'autorité
+- author: Hobsbawm, Eric
+  title: "Age of extremes: The short twentieth century 1914-1991"
   finished: 2004-09-10
   rating: 5
   notes:
+    - Veröffentlicht im Jahr 1994
+- author: Kojève, Alexandre
+  title: The notion of authority
+  finished: 2004-08-10
+  rating: 5
+  notes:
     - Veröffentlicht im Jahr 1964
+  quotes:
+    - content: "There is authority only where there is (real, or at least possible) movement, change, and action. Authority is held only over that which can 'react', that is to say, that which can change according to what or who represents (embodies, realises, or exercises) authority. And, quite obviously, authority belongs to the person who can effect change and not to the one subjected to change: Authority is essentially active and not passive."
 - author: Kropotkin, Peter
   title: Mutual aid, a factor of evolution
   finished: 2003-09-10
@@ -150,27 +169,32 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
-- author: Maximoff, G. Petrovitch
-  title: The political philosophy of Bakunin. Scientific anarchism
+- author: Margulis, Lynn
+  title: "Symbiotic planet: a new look at evolution"
   finished: 2000-09-10
   rating: 5
   notes:
-    - Veröffentlicht im Jahr 1953
+    - Veröffentlicht im Jahr 1999
+  quotes:
+    - content: "Symbiogenesis was the moon that drew the tide of life from the ocean depths to the dry land and air."
 - author: Marx, Karl
   title: Der 18te Brumaire des Louis Napoleon
-  finished: 2000-10-10
+  finished: 1999-10-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1852
-- author: Margulis, Lynn
-  title: Symbiotic planet, a new look at evolution
-  finished: 1999-09-10
+- author: Maximoff, G. Petrovitch
+  title: The political philosophy of Bakunin. Scientific anarchism
+  finished: 1998-09-10
   rating: 5
   notes:
-    - Veröffentlicht im Jahr 1999
+    - Veröffentlicht im Jahr 1953
+  quotes:
+    - content: "Science, as a moral entity existing outside of the universal social life and represented by a corporation of licensed savants, should be liquidated and widely diffused among the masses."
+    - content: "Let us honor the scientists on their proper merits, but let us not accord them any social privileges lest we thereby wreck their minds and morals. Let us not recognize on their part any other rights but the general right freely to advocate their convictions, thoughts, and knowledge."
 - author: Ortega y Gasset, José
   title: Historia como sistema
-  finished: 1998-09-10
+  finished: 1998-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1935
@@ -192,9 +216,15 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1933
-- author: Richards, Vernon
-  title: Malatesta. Life and ideas
+- author: Remley, William
+  title: "Jean-Paul Sartres's anarchist philosophy"
   finished: 1995-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2018
+- author: Richards, Vernon
+  title: "Malatesta: Life and ideas"
+  finished: 1995-07-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2015
@@ -222,9 +252,17 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1996
+  quotes:
+    - content: "La naturaleza, sin embargo, emplea el caos en forma constructiva: al amplificar las pequeñas fluctuaciones provee sistemas que permiten el acceso a la creatividad. La evolución biológica demanda una variabilidad genética, el caos puede proporcionar un medio para estructurar los cambios azarosos, ofreciendo la posibilidad de poner la diversificación bajo el control de la evolución. Aún más, podemos especular que la creatividad innata en la que viejas y nuevas ideas se conectan debe tener un trasfondo caótico que permite amplificar las fluctuaciones y moldearlas para dar estados mentales macroscópicamente coherentes, los cuales se experimentan como nuevos pensamientos. El caos provee un mecanismo que nos permite tener un libre albedrío en un mundo gobernado por leyes deterministas."
 - author: Schrödinger, Erwin
   title: What is life?
   finished: 1990-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1944
+- author: Seneca, Lucius Annaeus
+  title: "Letters from a stoic: Epistulae morales ad Lucilium"
+  finished: 1990-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
@@ -246,6 +284,10 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2013
+  quotes:
+    - content: "Hacer filosofía es una manera de pensar que privilegia la búsqueda del fundamento."
+    - content: "Atenas está plagada de sabios y sin embargo el oráculo elige a alguien cuya personalidad consistía en romper con lo que todos hacían."
+    - content: "Como un idiota, cuenta Platón, trataban en Mileto a Tales, el primer filósofo, que cuando se encontró con la filosofía, se entusiasmó tanto que se la pasaba recorriendo los caminos mirando para arriba, maravillado con la posibilidad de observar todo desde otras perspectivas. Pero era tal su cuelgue, que no veía el camino y se caía en todos los pozos. ¿De qué sirve la filosofía si desmonta toda realidad y abre nuevas perspectivas, pero el precio es no poder resolver los problemas más cotidianos?"
 - author: Thalheimer, Augustus
   title: Einführung in den dialektischen Materialismus
   finished: 1987-09-10
@@ -259,7 +301,7 @@
   notes:
     - Veröffentlicht im Jahr 2006
 - author: Turgénev, Iván
-  title: Отцы и дети (Fathers and sons)
+  title: Fathers and sons
   finished: 1985-09-10
   rating: 5
   notes:
