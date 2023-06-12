@@ -90,6 +90,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
+- author: Farrington, Benjamin
+  title: Science in antiquity
+  finished: 2012-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1964
 - author: Feyerabend, Paul
   title: Naturphilosophie
   finished: 2011-09-10
@@ -102,12 +108,6 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1967
-- author: Farrington, Benjamin
-  title: Science in antiquity
-  finished: 2009-09-10
-  rating: 5
-  notes:
-    - Veröffentlicht im Jahr 1964
 - author: Feinmann, José Pablo
   title: La filosofía y el barro de la historia
   finished: 2009-10-10
