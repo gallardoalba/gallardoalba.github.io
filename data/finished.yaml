@@ -78,6 +78,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1997
+- author: Ellul, Jacques
+  title: The technological society
+  finished: 2012-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1964
 - author: Engels, Friedrich
   title: Dialektik der Natur
   finished: 2012-09-10
@@ -108,9 +114,15 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
+- author: Gabel, Joseph
+  title: "False consciousness: An essay on reification"
+  finished: 2009-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1975
 - author: Goldman, Emma
   title: Anarchism and other essays
-  finished: 2009-09-10
+  finished: 2009-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1910
@@ -138,6 +150,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2014
+- author: Heidegger, Martin
+  title: Vom Wesen der Wahrheit
+  finished: 2002-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1943
 - author: Hirschberger, Johannes
   title: Kleine Philosophiegeschichte
   finished: 2005-01-10
@@ -165,18 +183,36 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1902
-- author: Heidegger, Martin
-  title: Vom Wesen der Wahrheit
-  finished: 2002-09-10
+- author: Lefebvre, Henri
+  title: Logique formele, logique dialectique
+  finished: 2001-08-10
   rating: 5
   notes:
-    - Veröffentlicht im Jahr 1943
+    - Veröffentlicht im Jahr 1969
+- author: Lewontin, Richard and Levins, Richard
+  title: The dialectical biologist
+  finished: 2001-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1987
 - author: Marcuse, Herbert
   title: One-dimensional man. Studies in the ideology of advanced industrial society
   finished: 2001-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
+- author: Marcuse, Herbert
+  title: A study on authority
+  finished: 2001-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1972
+- author: Marcuse, Herbert
+  title: Reason and Revolution. Hegel and the rise of social theory.
+  finished: 2001-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1941
 - author: Margulis, Lynn
   title: "Symbiotic planet: a new look at evolution"
   finished: 2000-09-10
