@@ -1,4 +1,10 @@
 - author: Amorós, Miquel
+  title: "El sutil hilo conductor de la subversión"
+  finished: 2022-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2022
+- author: Amorós, Miquel
   title: Filosofia en el tocador
   finished: 2021-09-10
   rating: 5
@@ -115,11 +121,17 @@
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Gabel, Joseph
-  title: "False consciousness: An essay on reification"
+  title: "La fausse conscience: Essai sur la reification"
   finished: 2009-09-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1975
+- author: Gabel, Joseph
+  title: "Sociologie de l'alienation"
+  finished: 2009-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1970
 - author: Giroux, Henry
   title: "Teachers as intellectuals: Toward a critical pedagogy of learning"
   finished: 2009-08-10
@@ -272,9 +284,15 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2018
+- author: Rendueles, Guillermo
+  title: Las falsas promesas psiquiatricas
+  finished: 1995-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2017
 - author: Richards, Vernon
   title: "Malatesta: Life and ideas"
-  finished: 1995-07-10
+  finished: 1995-06-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2015
@@ -310,15 +328,21 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
+- author: Semprun, Jaime
+  title: "L'Abîme se repeuple"
+  finished: 1990-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2016
 - author: Seneca, Lucius Annaeus
   title: "Letters from a stoic: Epistulae morales ad Lucilium"
-  finished: 1990-08-10
+  finished: 1990-07-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
 - author: Shelley, Mary
   title: Frankenstein; or the modern prometheus
-  finished: 1990-08-10
+  finished: 1989-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1818
