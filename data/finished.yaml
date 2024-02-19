@@ -1,3 +1,9 @@
+- author: Aibar, Eduard
+  title: "El culto a la innovación: Estragos de una visión sesgada de la tecnología"
+  finished: 2022-10-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2023
 - author: Amorós, Miquel
   title: "El sutil hilo conductor de la subversión"
   finished: 2022-09-10
@@ -13,6 +19,12 @@
     - content: "[...] los pensadores de la clase dirigente se defendían de la subversión llevando los acontecimientos fuera de la historia, integrándolos en su visión del mundo como metarrelatos, es decir, como categorías literarias atemporales."
   notes:
     - Veröffentlicht im Jahr 2016
+- author: Amorós, Miquel
+  title: "Proletariado salvaje. Movimiento asambleario y autonomía obrera"
+  finished: 2022-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2023
 - author: Anders, Günther
   title: Die Antiquiertheit des Menschen Bd. I. Über die Seele im Zeitalter der zweiten industriellen Revolution
   finished: 2020-09-10
@@ -231,6 +243,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1941
+- author: Marcuse, Herbert
+  title: Technology, war and fascism
+  finished: 2001-03-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1941
 - author: Margulis, Lynn
   title: "Symbiotic planet: a new look at evolution"
   finished: 2000-09-10
@@ -262,16 +280,28 @@
     - Veröffentlicht im Jahr 1935
 - author: Payne, Stanley
   title: Fascism
-  finished: 1997-01-10
+  finished: 1997-02-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1982
+- author: Polanyi, Karl
+  title: The Great Transformation. The political and economic origins of our time
+  finished: 1997-01-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1944
 - author: Politzer, Georges
   title: Principes élémentaires de philosophie
-  finished: 1996-01-10
+  finished: 1996-02-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1954
+- author: Quinn, Slobodian
+  title: "Globalists: The end of empire and the birth of neoliberalism"
+  finished: 1996-01-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2018
 - author: Reich, Wilhelm
   title: Massenpsychologie des Faschismus
   finished: 1995-09-10
@@ -329,8 +359,14 @@
   notes:
     - Veröffentlicht im Jahr 1944
 - author: Semprun, Jaime
-  title: "L'Abîme se repeuple"
+  title: "Défense et illustration de la novlangue française"
   finished: 1990-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2016
+- author: Semprun, Jaime
+  title: "L'Abîme se repeuple"
+  finished: 1990-07-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2016
@@ -378,3 +414,9 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2006
+- author: Zamyatin, Yevgeny
+  title: We
+  finished: 1985-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1920
