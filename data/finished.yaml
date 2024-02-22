@@ -41,20 +41,28 @@
   quotes:
     - content: "[..] heute - dies ist die fixe Idee der dritten industriellen Revolution - das Mögliche durchweg als das Verbindliche, das Gekonnte durchweg als das Gesollte akzeptiert ist."
 - author:  Anders, Günther
-  title: "Die Weltfremdheit des Menschen: Schriften zur philosophischen Anthropologie"
+  title: Die molussische Katakombe
   finished: 2020-08-09
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2012
+    - content: "Molussien ist ein fiktives, von einem totalitären System beherrschtes Land. Ort der Handlung sind die Gefängniskatakomben. Es geht in dem Roman um die psychologischen Mechanismen des Nationalsozialismus, im Grunde aber jeder totalitären Herrschaft. Das Buch ist ein meisterhafter literarischer Versuch, der Psychologie von Lüge und Wahrheit auf die Spur zu kommen."
+    - content: "Bertolt Brecht hatte das Manuskript an einen Verlag vermittelt, doch Anders konnte den Roman wegen der Machtergreifung der Nationalsozialisten nicht mehr in Deutschland veröffentlichen. Hannah Arendt brachte ihm das Manuskript ins Exil nach Paris mit. Auch hier und später in den USA scheiterte eine Veröffentlichung des mittlerweile auf 600 Seiten angewachsenen Manuskripts. 1992, in seinem Todesjahr, erschien eine von Günther Anders selbst gekürzte Ausgabe. Der vollständige Text liegt nun mit dieser Ausgabe erstmals vor, ergänzt um ein Nachwort des Herausgebers Gerhard Oberschlick, der ausführlich auf die abenteuerliche Überlieferungsgeschichte des Werkes eingeht."
+- author:  Anders, Günther
+  title: "Die Weltfremdheit des Menschen: Schriften zur philosophischen Anthropologie"
+  finished: 2020-07-09
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2018
 - author:  Anders, Günther
   title: "Mensch ohne Welt: Schriften zur Kunst und Literatur"
-  finished: 2020-07-09
+  finished: 2020-06-09
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1984
 - author:  Anders, Günther
   title: "Wir Eichmannsöhne. Offener Brief an Klaus Eichmann"
-  finished: 2020-06-09
+  finished: 2020-05-09
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2001
