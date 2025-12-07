@@ -246,7 +246,7 @@
     - Veröffentlicht im Jahr 1994
 - author: Klemperer, Victor
   title: "LTI - Lingua Tertii Imperii: Notizbuch eines Philologen"
-  finished: 2003-08-10
+  finished: 2004-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1947
@@ -254,7 +254,7 @@
     - content: "Die Sprache des Dritten Reiches ist eine Sprache der Lüge und des Betrugs. Sie ist so gestaltet, daß sie den Menschen in die Irre führt, ihn täuscht und manipuliert."
 - author: Kojève, Alexandre
   title: The notion of authority
-  finished: 2004-08-10
+  finished: 2004-07-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
@@ -280,40 +280,35 @@
     - Veröffentlicht im Jahr 1987
 - author: "Lukács, György"
   title: The destruction of Reason
-  finished: 2002-07-10
+  finished: 2001-06-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1954
 - author: Marcuse, Herbert
   title: One-dimensional man. Studies in the ideology of advanced industrial society
-  finished: 2001-06-10
+  finished: 2001-05-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1964
 - author: Marcuse, Herbert
   title: A study on authority
-  finished: 2001-05-10
+  finished: 2001-04-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1972
 - author: Marcuse, Herbert
   title: Reason and Revolution. Hegel and the rise of social theory
-  finished: 2001-04-10
+  finished: 2001-03-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1941
 - author: Marcuse, Herbert
   title: Technology, war and fascism
-  finished: 2001-03-10
-  rating: 5
-  notes:
-    - Veröffentlicht im Jahr 1941
-- author: Mattei, Clara
-  title: The capital order
   finished: 2001-02-10
   rating: 5
   notes:
-    - Veröffentlicht im Jahr 2002
+    - Veröffentlicht im Jahr 1941
+
 - author: Margulis, Lynn
   title: "Symbiotic planet: a new look at evolution"
   finished: 2000-09-10
@@ -328,6 +323,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1852
+- author: Mattei, Clara
+  title: The capital order
+  finished: 1999-09-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2002
 - author: Maximoff, G. Petrovitch
   title: The political philosophy of Bakunin. Scientific anarchism
   finished: 1998-09-10
