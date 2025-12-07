@@ -75,6 +75,18 @@
     - Marcus Aurelius starb im 1. Jahrhundert nach Christus.
   quotes:
     - content: "That which is not good for the bee-hive, cannot be god for the bee."
+- author: Berkman, Alexander
+  title: ABC of communist anarchism
+  finished: 2018-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1929
+- author: Bueno, Gustavo
+  title: El mito de la izquierda
+  finished: 2018-06-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2005
 - author: Bookchin, Murray
   title: The ecology of freedom. The emergence and dissolution of hierarchy
   finished: 2018-09-10
@@ -232,6 +244,14 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1994
+- author: Klemperer, Victor
+  title: "LTI - Lingua Tertii Imperii: Notizbuch eines Philologen"
+  finished: 2003-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1947
+  quotes:
+    - content: "Die Sprache des Dritten Reiches ist eine Sprache der Lüge und des Betrugs. Sie ist so gestaltet, daß sie den Menschen in die Irre führt, ihn täuscht und manipuliert."
 - author: Kojève, Alexandre
   title: The notion of authority
   finished: 2004-08-10
@@ -288,6 +308,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1941
+- author: Mattei, Clara
+  title: The capital order
+  finished: 2001-02-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2002
 - author: Margulis, Lynn
   title: "Symbiotic planet: a new look at evolution"
   finished: 2000-09-10
@@ -335,6 +361,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1954
+- author: Poper, Karl
+  title: The logic of scientific discovery
+  finished: 1996-01-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1959
 - author: Quinn, Slobodian
   title: "Globalists: The end of empire and the birth of neoliberalism"
   finished: 1996-01-10
@@ -415,12 +447,30 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1944
+- author: Serge, Victor
+  title: Anarchists never surrender
+  finished: 1990-06-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2015
 - author: Shelley, Mary
   title: Frankenstein; or the modern prometheus
   finished: 1989-08-10
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1818
+- author: Stanley, Jason
+  title: How fascism works
+  finished: 1989-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2018
+- author: Stanley, Jason
+  title: How propaganda works
+  finished: 1989-06-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2015
 - author: Szasz, Thomas
   title: The manufacture of madness. A comparative study of the inquisition and the mental health movement
   finished: 1988-02-10
@@ -453,6 +503,24 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2006
+- author: Watanabe, Masaya
+  title: La Andalucía libertaria
+  finished: 1985-06-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2003
+- author: Wollin, Sheldom
+  title: "Democracy Incorporated: Managed democracy and the specter of inverted totalitarianism"
+  finished: 1985-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 2008
+- author: Worster, Donald
+  title: "Nature's economy: A history of ecological ideas"
+  finished: 1985-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1974
 - author: Zamyatin, Yevgeny
   title: We
   finished: 1985-08-10
