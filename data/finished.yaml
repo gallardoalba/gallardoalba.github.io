@@ -147,6 +147,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 2009
+- author: Feyerabend, Paul
+  title: The tirany of science
+  finished: 2011-08-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1996
 - author: Feynman, Richard
   title: The character of physical law
   finished: 2010-09-10
@@ -252,6 +258,12 @@
   rating: 5
   notes:
     - Veröffentlicht im Jahr 1987
+- author: "Lukács, György"
+  title: The destruction of Reason
+  finished: 2002-07-10
+  rating: 5
+  notes:
+    - Veröffentlicht im Jahr 1954
 - author: Marcuse, Herbert
   title: One-dimensional man. Studies in the ideology of advanced industrial society
   finished: 2001-06-10
